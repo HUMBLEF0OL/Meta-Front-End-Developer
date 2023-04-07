@@ -7,4 +7,4 @@
 ## Table Of Content
 
 - [Introduction to Front-End Development](https://github.com/HUMBLEF0OL/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development)
-- Programming with Javascript()
+- [Programming with Javascript](https://github.com/HUMBLEF0OL/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript)
